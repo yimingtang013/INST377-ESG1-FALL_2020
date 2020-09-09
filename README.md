@@ -8,7 +8,6 @@ The following steps are to do the following:
 
 At the end of these instructions, your github pages repository should look like a copy of this repository. You can then work on your labs locally, push to your own remote, and pull changes I make here into your repos without wrecking your work.
 
-It'll be great! But it is tricky to get there.
 
 ### Installation
 * Clone this repository into Github Desktop using the large green Code button.
