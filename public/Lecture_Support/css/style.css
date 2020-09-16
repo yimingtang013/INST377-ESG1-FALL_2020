@@ -28,4 +28,9 @@
   * { /* Universal selector */
     font-size: 20px;
   }
+
+/* Pseudoclasses - Any button over which the user's pointer is hovering */
+button:hover {
+    color: blue;
+  }
  
